@@ -1,32 +1,29 @@
-# Recriando a página inicial do Instagram | Desafio de Projeto DIO
+# Classificador de nível de Herói | Desafio de Projeto DIO
 
 |                         |                                         |
 |-------------------------|-----------------------------------------|
-| ✨Nome                   | Recriando a página inicial do Instagram |
-| 🏷️Tecnologias            | HTML, CSS                               |
+| ✨Nome                   | Classificador de nível de Herói |
+| 🏷️Tecnologias            | Javascript                               |
 | 🚀 URL                   |                                         |
-| 🔥 Desafio ou Referência | [https://github.com/SpruceGabriela/instagram-dio](https://github.com/SpruceGabriela/instagram-dio)           |
+| 🔥 Desafio ou Referência |          |
 
-## Exibição do Projeto
 
-![Página Inicial do instagram](./img/paginaInicial.png)
 
 ## Detalhes do Projeto
 
-Este projeto é um desafio do Bootcamp ****Geração Tech Unimed-BH (Fullstack)**** da DIO e tem como proposta recriar a página inicial do Instagram utilizando Flexbox. A referência do projeto está disponível no [link](https://github.com/SpruceGabriela/instagram-dio) .
+Este projeto faz parte do desafio do Bootcamp **Potência Tech iFood: Programação do Zero** da DIO e tem como objetivo criar um classificador de nível de herói.
 
-Além da atividade proposta decidi adicionar um rodapé à página semelhante ao encontrado na página oficial do Instagram.
+Além da proposta principal, decidi incorporar a variável "pronome", que pode assumir os valores masculino, feminino e neutro. Dessa forma, a frase que apresenta o nível respeita o gênero da pessoa.
+
 
 ## Dificuldades
 
-- Adaptar o código de CSS para as imagens que escolhi;
-- Organizar o posicionamento do rodapé da página.
+-
 
 ## Facilidades
 
-- Organizar a estrutura do HTML
+-
 
 ## Tecnologias
 
-- HTML
-- CSS
+- Javascript
